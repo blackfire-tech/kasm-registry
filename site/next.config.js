@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Blackfire Technology',
+    description: 'The Blackfire Technology Kasm repository',
+    icon: 'https://blackfire-tech.github.io/kasm-registry/1.1/image.png',
+    listUrl: 'https://blackfire-tech.github.io/kasm-registry',
+    contactUrl: 'https://github.com/blackfire-tech/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
